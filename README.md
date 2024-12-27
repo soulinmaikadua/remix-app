@@ -1,6 +1,6 @@
 # Welcome to Remix!
 
-- 📖 [Remix docs](https://remix.run/docs)
+-   📖 [Remix docs](https://remix.run/docs)
 
 ## Development
 
@@ -32,9 +32,15 @@ If you're familiar with deploying Node applications, the built-in Remix app serv
 
 Make sure to deploy the output of `npm run build`
 
-- `build/server`
-- `build/client`
+-   `build/server`
+-   `build/client`
 
 ## Styling
 
 This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+
+## Example
+
+tus hu nkauj
+/tsom-xyooj
+/tsom-xyooj/xav-yog-tus-koj-by-tsom-xyooj-song-and-lyrics
